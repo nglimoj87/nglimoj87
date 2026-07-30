@@ -29,7 +29,4 @@ A digital platform connecting mothers with personalized pregnancy and postpartum
 
 ---
 
-*Learning by building. Documenting the journey.*
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
