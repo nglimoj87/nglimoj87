@@ -20,6 +20,8 @@ A browser extension focused on browser security and secure online payments.
 ### 🤱 MammaBuddy
 A digital platform connecting mothers with personalized pregnancy and postpartum support.
 
+### Enterprise AI Assistant(Currently working on it)
+
 ## 💻 Tech Stack
 
 **Infrastructure:** Docker • VMware • Git  
