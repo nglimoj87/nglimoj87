@@ -1,4 +1,4 @@
-# Hi, Mon here! 👋
+# Hi, Monica here! 👋
 
 > *Infrastructure powers systems. Security keeps them resilient.*
 
